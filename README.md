@@ -1,12 +1,12 @@
 # Building a Neural Network from Scratch for the Lander Game using Numpy and Pandas*
 
-In this project, we embark on the exciting journey of constructing a neural network from scratch, leveraging the power of two popular Python libraries, Numpy and Pandas. Our focus is on implementing a neural network for the Lander Game, a task that involves intricate algorithms and data manipulation.
+In this project, I embark on the exciting journey of constructing a neural network from scratch, leveraging the poIr of two popular Python libraries, Numpy and Pandas. Our focus is on implementing a neural network for the Lander Game, a task that involves intricate algorithms and data manipulation.
 
 **Key Highlights:**
 
-1. **Neural Network Development:** We delve into the fundamentals of neural networks, bypassing pre-built frameworks to build our own. This approach grants us an in-depth understanding of the underlying mechanisms.
+1. **Neural Network Development:** I delve into the fundamentals of neural networks, bypassing pre-built frameworks to build our own. This approach grants us an in-depth understanding of the underlying mechanisms.
 
-2. **Numpy Integration:** Utilizing the numerical computing library Numpy, we handle complex mathematical operations essential for neural network training and prediction. This provides efficiency and speed in our implementation.
+2. **Numpy Integration:** Utilizing the numerical computing library Numpy, I handle complex mathematical operations essential for neural network training and prediction. This provides efficiency and speed in our implementation.
 
 3. **Data Management with Pandas:** Pandas, a versatile data manipulation library, aids us in efficiently handling datasets related to the Lander Game. This includes tasks such as data cleaning, preprocessing, and feature extraction.
 
